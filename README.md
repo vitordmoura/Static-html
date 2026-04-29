@@ -84,4 +84,4 @@ docker run --rm --network host \
 
 ---
 
-*Projeto educacional — FIAP 2026*
+*Projeto Educacional — FIAP 2026: Projeto sob a orientação do docente Oerton Fernandes*
