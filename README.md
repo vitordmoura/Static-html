@@ -29,7 +29,7 @@ ao pipeline de **GitHub Actions**.
 3. **Sem proteção CSRF** nos formulários
 4. **Sem headers de segurança** (CSP, X-Frame-Options, etc.) — detectado pelo ZAP
 
-## 🚀 Como Rodar Localmente
+## Como Rodar Localmente
 
 ```bash
 # Instalar dependências
@@ -42,7 +42,7 @@ python3 -m http.server 8080
 # http://localhost:8080
 ```
 
-## 🕷️ Rodar ZAP Localmente (com Docker)
+## Rodar ZAP Localmente (com Docker)
 
 ```bash
 mkdir -p zap-reports
